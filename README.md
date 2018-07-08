@@ -35,3 +35,4 @@ Tutorial basic tentang Git dan Github
 
 4.git push add origin master.
 
+Tutorial lengkap https://www.petanikode.com/git-untuk-pemula/
