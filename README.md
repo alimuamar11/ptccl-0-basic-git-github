@@ -5,7 +5,7 @@ Tutorial basic tentang Git dan Github
 
 # basic git command
 
-- git inint
+- git init
 - git remote add origin https://github.com/myRepo/myRepository.git
  - git config --global user.email "ur.mail@dontknow.com"
  - git config --global user.name "ur.userName"
