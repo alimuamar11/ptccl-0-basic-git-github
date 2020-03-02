@@ -1,7 +1,7 @@
 # ptccl-0-basic-git-github
 
-Tutorial basic tentang Git dan Github
 
+Tutorial basic tentang Git dan Github
 
 # basic git command
 
@@ -15,16 +15,15 @@ Tutorial basic tentang Git dan Github
  
  
 # a simplest way to perform pull request
-
 - fork your target repo
 -  add remote to the forking repo
 - clone or pull to ur local machine
- - start editing and add the changes
- - push to master or branch
- -  then click new pull request from github website, adding a few comment and create pull request
+- start editing and add the changes
+- push to master or branch
+-  then click new pull request from github website, adding a few comment and create pull request
 
 # Membuat Repository
------------
+-----------------------
 ## Langkah - langkah
 
 1.Pertama login di situs Github dengan username dan password anda, kemudian klik Create New Repository.
