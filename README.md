@@ -8,6 +8,8 @@ Usage: git config –global user.email “[email address]”
 git status
 -> dalam workdir kemudian git add * =>dalam brance master
 
+git reset * => unstage dari yang barusan di add, maka balik lagi ke workdir
+
 Tutorial basic tentang Git dan Github
 
 # basic git command
