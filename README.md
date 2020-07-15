@@ -1,6 +1,13 @@
 # ptccl-0-basic-git-github
 
 
+git config
+Usage: git config –global user.name “[name]”
+Usage: git config –global user.email “[email address]”
+
+git status
+-> dalam workdir kemudian git add * =>dalam brance master
+
 Tutorial basic tentang Git dan Github
 
 # basic git command
