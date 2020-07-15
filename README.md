@@ -10,7 +10,9 @@ git status
 
 git reset * => unstage dari yang barusan di add, maka balik lagi ke workdir
 
-coba iki ilang ora
+git branch amir
+
+git checkout amir 
 
 Tutorial basic tentang Git dan Github
 
