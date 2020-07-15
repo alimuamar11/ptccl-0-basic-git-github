@@ -10,6 +10,8 @@ git status
 
 git reset * => unstage dari yang barusan di add, maka balik lagi ke workdir
 
+coba iki ilang ora
+
 Tutorial basic tentang Git dan Github
 
 # basic git command
